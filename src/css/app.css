@@ -113,7 +113,9 @@ li{
     top: 0;
     min-width: 300px;
     bottom: 0;
-    z-index: 1001; }
+    z-index: 1001;
+    overflow-y: auto;
+}
 .app-login-form .form-title {
     padding: 20px 0;
     font-size: 25px;
